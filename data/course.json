@@ -1,0 +1,53 @@
+{
+  "term": "Spring",
+  "year": "2007",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Theoretical Physics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Quantum Mechanics"
+    ]
+  ],
+  "legacy_uid": "868d07ca-c861-e21a-4b88-aeaa0b006758",
+  "instructors": {
+    "content": [
+      "8a059de4-4694-c03f-61e8-c6f0b9e8babe",
+      "3d0b085b-3b49-dc03-1a30-85de9ff67612"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "b70bbfb1-7f7f-695d-d69f-7191714d7246",
+    "website": "8-251-string-theory-for-undergraduates-spring-2007"
+  },
+  "course_title": "String Theory for Undergraduates",
+  "hide_download": true,
+  "course_description": "This course introduces string theory to undergraduate and is based upon Prof. Zwiebach's textbook entitled _A First Course in String Theory_. Since string theory is quantum mechanics of a relativistic string, the foundations of the subject can be explained to students exposed to both special relativity and basic quantum mechanics. This course develops the aspects of string theory and makes it accessible to students familiar with basic electromagnetism and statistical mechanics.\n",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "8.251",
+  "course_image_thumbnail": {
+    "content": "990bc57f-822a-a27e-e45e-697f81efdef8",
+    "website": "8-251-string-theory-for-undergraduates-spring-2007"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams with Solutions",
+    "Lecture Notes"
+  ],
+  "site_uid": "579e856d-bb19-4ff4-ac09-5192d17f3418",
+  "site_short_id": "8.251-spring-2007",
+  "site_url_path": "courses/8-251-string-theory-for-undergraduates-spring-2007",
+  "title": "Course Metadata"
+}
